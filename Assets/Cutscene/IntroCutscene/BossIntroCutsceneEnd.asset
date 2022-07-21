@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea5f70cea095a244a156d845ff6afbd, type: 3}
+  m_Name: BossIntroCutsceneEnd
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "That\u2019s all you got? Aren\u2019t you a Sentinel, a dangerous murder machine?
+    I thought you\u2019d be stronger than that."
+  - Sometimes, I wonder why humans lost in the war from YOUR kind.
+  - "It\u2019s over now. Come little girl, it\u2019s important you come with me."
+  - "I don\u2019t know who you are.. What do you want from me?.."
+  - "I\u2019ll explain later, for now, we need to get away from that thing...."
+  imageCutscenes:
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 1f496241487778f44aeff79454c2c631, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  directionTextBox: 0100000001000000010000000000000001000000
+  soundType:
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: c01504c4ab3559e4895cdcda131784e6, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}

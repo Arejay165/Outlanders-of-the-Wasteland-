@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea5f70cea095a244a156d845ff6afbd, type: 3}
+  m_Name: BossIntroCutscene
+  m_EditorClassIdentifier: 
+  dialogues:
+  - " Ah\u2026There you are."
+  - I was looking everywhere for the both of you. Damn robots were always so hard
+    to track, especially in the war.
+  - ...
+  - I wonder... Did we ever cross paths back then?
+  - "Oh well, it doesn\u2019t matter anymore. I\u2019m here for the girl. She\u2019s
+    the key. Only she knows\u2026"
+  - "But you already knew that, didn\u2019t you?"
+  - ' Who-who is he? What does he want from me?'
+  - "Don\u2019t worry little girl, you\u2019ll realize your role in this world soon
+    enough.\r\n"
+  - "My role\u2026.?"
+  - "\u2026"
+  - "...You don\u2019t talk much, do you?"
+  - "Let\u2019s get this over with."
+  imageCutscenes:
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 1f496241487778f44aeff79454c2c631, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 1f496241487778f44aeff79454c2c631, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  directionTextBox: 010000000100000000000000010000000100000001000000000000000100000000000000000000000100000001000000
+  soundType:
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: c01504c4ab3559e4895cdcda131784e6, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: c01504c4ab3559e4895cdcda131784e6, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}

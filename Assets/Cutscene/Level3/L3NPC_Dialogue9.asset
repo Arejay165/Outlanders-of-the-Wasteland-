@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea5f70cea095a244a156d845ff6afbd, type: 3}
+  m_Name: L3NPC_Dialogue9
+  m_EditorClassIdentifier: 
+  dialogues:
+  - '[CONNECTING...]'
+  - '[CONNECTION ESTABLISHED]'
+  - '[REPAIRING...]'
+  - '[REPAIR 9 0F 12 COMPLETE]'
+  - .....
+  - ...I remember where they hide...
+  - .....
+  - '[SYSTEM DAMAGED]'
+  - '[CONNECTION TO OTHER TERMINALS REQUIRED FOR COMPLETE SYSTEM REPAIR]'
+  imageCutscenes: []

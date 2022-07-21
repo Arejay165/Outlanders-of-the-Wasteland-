@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: f9b2595530e124447b275b089e28f1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6802648057766667080
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_0
+  - first:
+      213: 8273554586596873759
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_1
+  - first:
+      213: 2070477974141748020
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_2
+  - first:
+      213: -8170487988871203298
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_3
+  - first:
+      213: 2524641178188183801
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_4
+  - first:
+      213: 7949313036718918512
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_5
+  - first:
+      213: -4077107825953520224
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_6
+  - first:
+      213: 3498639726664971041
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_7
+  - first:
+      213: -821497864288637318
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_8
+  - first:
+      213: -4103527341442719757
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_9
+  - first:
+      213: 3729298948468821129
+    second: OOW_MC_jumpaseprite-Sheet-Sheet_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc11d822a32891a0800000000000000
+      internalID: -6802648057766667080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1619e3bf0291d270800000000000000
+      internalID: 8273554586596873759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4334df36fb0dbbc10800000000000000
+      internalID: 2070477974141748020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167cb596789c9e80800000000000000
+      internalID: -8170487988871203298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 18
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fa3386c3590320800000000000000
+      internalID: 2524641178188183801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 21
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4302f612a15e60800000000000000
+      internalID: 7949313036718918512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 24
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a54313a8043b67c0800000000000000
+      internalID: -4077107825953520224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 29
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237fe87b4aad8030800000000000000
+      internalID: 3498639726664971041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e655f7b047994f0800000000000000
+      internalID: -821497864288637318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1437df975d07c0800000000000000
+      internalID: -4103527341442719757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OOW_MC_jumpaseprite-Sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc8bc82a121c330800000000000000
+      internalID: 3729298948468821129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OOW_MC_jumpaseprite-Sheet-Sheet_3: -8170487988871203298
+      OOW_MC_jumpaseprite-Sheet-Sheet_10: 3729298948468821129
+      OOW_MC_jumpaseprite-Sheet-Sheet_7: 3498639726664971041
+      OOW_MC_jumpaseprite-Sheet-Sheet_2: 2070477974141748020
+      OOW_MC_jumpaseprite-Sheet-Sheet_4: 2524641178188183801
+      OOW_MC_jumpaseprite-Sheet-Sheet_1: 8273554586596873759
+      OOW_MC_jumpaseprite-Sheet-Sheet_9: -4103527341442719757
+      OOW_MC_jumpaseprite-Sheet-Sheet_0: -6802648057766667080
+      OOW_MC_jumpaseprite-Sheet-Sheet_5: 7949313036718918512
+      OOW_MC_jumpaseprite-Sheet-Sheet_8: -821497864288637318
+      OOW_MC_jumpaseprite-Sheet-Sheet_6: -4077107825953520224
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

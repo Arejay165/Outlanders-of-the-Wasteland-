@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea5f70cea095a244a156d845ff6afbd, type: 3}
+  m_Name: BossFinalLevelIntro
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\u2026? You survived?!"
+  - "No...no no no this can\u2019t be. We haven\u2019t had enough time!"
+  - Stay back! I can't let you have the girl. We need her!
+  - ...
+  - " I won\u2019t let you harm her!"
+  - "Haven\u2019t you already won the war? Isn\u2019t that enough to silence us?"
+  - "She is the key to humanity\u2019s survival. Just let us have her."
+  - " I\u2019m no fool. I know why you need her."
+  - "You\u2019re right. She\u2019s the last of her bloodline. Her family is the reason
+    your kind exists."
+  - 'The ones who brought humanity to its path of extinction! '
+  - If anyone can right the wrongs of your creation, it would be her! Then humanity
+    can live again!
+  - 'Then we can be slaves to humanity again?
+
+    No...we will be free. '
+  - And she is the key.
+  imageCutscenes:
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: 9fb0658177457d949b04713c45dfb293, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  - {fileID: 21300000, guid: ae1b361ebc1939b469e57288c4ece4d4, type: 3}
+  directionTextBox: 01000000010000000100000000000000010000000100000001000000000000000100000001000000010000000000000000000000
+  soundType:
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: bf7a88d9c9eba6242914dae2d12c9b6b, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}
+  - {fileID: 8300000, guid: a6333baf7192f5d419f1adfb9cdb3ab9, type: 3}

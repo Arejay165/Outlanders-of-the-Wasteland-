@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HumanEnemyAI
+  m_Controller: {fileID: 9100000, guid: abcd365e15ea22447a115ec6861b6b1d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1cf67226c3247f4469e491dff1bc95b7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 944199989e35aed4d8ea413e3a5a1ad5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a911eb56d060c4c40a702615475b3ca3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a22fc2217b9a3d74f8fbc1a82041ab4c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dd4f4eeea04555c46b5c52e158d9dcdf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 875c13d740f35ec4fbc7ebdedbcaaf79, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 73a6bac9b8329cd498d9cc9cb2c995a8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ac2a10524460c64488d8306379d35cf1, type: 2}
